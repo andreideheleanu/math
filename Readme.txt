@@ -1,8 +1,6 @@
-name of the project: Math Problems
+Some Math Problems
 
-descriptions of the project 
-one - 
-two - 
+This project is a collection of solutions to some math problems.
 
 
 author: Andrei Deheleanu
